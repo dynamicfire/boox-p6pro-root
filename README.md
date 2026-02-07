@@ -29,6 +29,7 @@
 - [技术分析](#技术分析)
 - [已知问题](#已知问题)
 - [兼容性](#兼容性)
+- [相关项目](#相关项目)
 - [致谢](#致谢)
 
 ---
@@ -431,6 +432,13 @@ adb reboot
 
 ---
 
+## 相关项目
+
+- **[boox-ams-fix](https://github.com/dynamicfire/boox-ams-fix)** — 修复文石 4.1 固件上 Magisk App 崩溃的 Bug
+- **[boox-telecom-fix](https://github.com/dynamicfire/boox-telecom-fix)** — 解锁被软件封锁的电话和短信功能（国内版小彩马）
+
+---
+
 ## 致谢
 
 - **[Kisuke](https://github.com/Kisuke-CZE/Palma_2_Pro-tips#rooting-palma-2-pro)** — 原始 Palma 2 Pro Root 方法和 EDL loader
@@ -460,6 +468,7 @@ adb reboot
 - [Technical Analysis](#technical-analysis-1)
 - [Known Issues](#known-issues-1)
 - [Compatibility](#compatibility)
+- [Related Projects](#related-projects)
 - [Credits](#credits)
 
 ---
@@ -859,6 +868,13 @@ This guide was developed and tested on the Boox P6 Pro (Chinese domestic version
 - Other SM7225-based Boox devices on firmware 4.1
 
 The `boox-ams-fix` Magisk module specifically targets the `services.jar` from firmware 4.1. Using it on other firmware versions may not work or may cause issues.
+
+---
+
+## Related Projects
+
+- **[boox-ams-fix](https://github.com/dynamicfire/boox-ams-fix)** — Fix Magisk App crash on Boox firmware 4.1
+- **[boox-telecom-fix](https://github.com/dynamicfire/boox-telecom-fix)** — Unlock phone call and SMS functionality (blocked by software on Chinese domestic version)
 
 ---
 
