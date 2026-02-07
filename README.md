@@ -63,7 +63,7 @@
 - **[bkerler/edl](https://github.com/bkerler/edl)** — 高通 EDL 工具，用于读写分区
 - **[Magisk](https://github.com/topjohnwu/Magisk/releases)** — Root 方案（已测试 v30.6）
 - **ADB & Fastboot** — Android 平台工具
-- **EDL Loader** — `palma2pro.bin`（来自 [Kisuke 的 Palma 2 Pro 指南](https://www.mobileread.com/forums/showthread.php?t=366292)）
+- **EDL Loader** — `palma2pro.bin`（来自 [Kisuke 的 Palma 2 Pro 指南](https://github.com/Kisuke-CZE/Palma_2_Pro-tips#rooting-palma-2-pro)）
 - **FP4 ABL** — `abl-fp4.img`（Fairphone 4 的 Android Bootloader，用于临时替换）
 
 ### 在 macOS 上安装 edl
@@ -433,7 +433,7 @@ adb reboot
 
 ## 致谢
 
-- **[Kisuke](https://www.mobileread.com/forums/showthread.php?t=366292)** — 原始 Palma 2 Pro Root 方法和 EDL loader
+- **[Kisuke](https://github.com/Kisuke-CZE/Palma_2_Pro-tips#rooting-palma-2-pro)** — 原始 Palma 2 Pro Root 方法和 EDL loader
 - **[bkerler/edl](https://github.com/bkerler/edl)** — 高通 EDL 工具
 - **[topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)** — Root 方案
 - **[jdkruzr/BooxPalma2RootGuide](https://github.com/jdkruzr/BooxPalma2RootGuide)** — 参考指南
@@ -494,7 +494,7 @@ Additionally, Boox firmware 4.1 introduces a bug in `ActivityManagerService` tha
 - **[bkerler/edl](https://github.com/bkerler/edl)** — Qualcomm EDL tool for reading/writing partitions
 - **[Magisk](https://github.com/topjohnwu/Magisk/releases)** — Root solution (v30.6 tested)
 - **ADB & Fastboot** — Android platform tools
-- **EDL Loader** — `palma2pro.bin` (from [Kisuke's Palma 2 Pro guide](https://www.mobileread.com/forums/showthread.php?t=366292))
+- **EDL Loader** — `palma2pro.bin` (from [Kisuke's Palma 2 Pro guide](https://github.com/Kisuke-CZE/Palma_2_Pro-tips#rooting-palma-2-pro))
 - **FP4 ABL** — `abl-fp4.img` (Fairphone 4 Android Bootloader, for temporary bootloader replacement)
 
 ### Installing edl on macOS
@@ -864,7 +864,7 @@ The `boox-ams-fix` Magisk module specifically targets the `services.jar` from fi
 
 ## Credits
 
-- **[Kisuke](https://www.mobileread.com/forums/showthread.php?t=366292)** — Original Palma 2 Pro root method and EDL loader
+- **[Kisuke](https://github.com/Kisuke-CZE/Palma_2_Pro-tips#rooting-palma-2-pro)** — Original Palma 2 Pro root method and EDL loader
 - **[bkerler/edl](https://github.com/bkerler/edl)** — Qualcomm EDL tool
 - **[topjohnwu/Magisk](https://github.com/topjohnwu/Magisk)** — Root solution
 - **[jdkruzr/BooxPalma2RootGuide](https://github.com/jdkruzr/BooxPalma2RootGuide)** — Reference guide
